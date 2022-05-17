@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>CREATE Podcasts</title>
+	<link>https://blogs.glowscotland.org.uk/gc/glasgowcreate/podcasts/</link>
+	<description>Podcasts from Glasgow CREATE</description>
+	<language>en-gb</language>
+	<itunes:author>Glasgow CREATE</itunes:author>
+	<image>
+		<title>CREATE Podcast</title>
+		<link>https://blogs.glowscotland.org.uk/gc/glasgowcreate/podcasts/</link>
+		<url>https://blogs.glowscotland.org.uk/gc/public/glasgowcreate/uploads/sites/11068/2022/05/16121308/CREATE-Logo.png</url>
+	</image>
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+      <itunes:name>Glasgow CREATE</itunes:name>
+      <itunes:email>CREATE@glasgow.gov.uk</itunes:email>
+    </itunes:owner>
+
+	<itunes:image 
+		href="https://blogs.glowscotland.org.uk/gc/public/glasgowcreate/uploads/sites/11068/2022/05/16121308/CREATE-Logo.png"
+		/>
+	<itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+	<item>
+		<title>Podcast 1</title>
+		<itunes:title>Podcast 01</itunes:title>
+		<description>First in a new series</description>
+		<enclosure 
+        length="8759296" 
+        type="audio/mpeg" 
+        url="https://blogs.glowscotland.org.uk/gc/public/glasgowcreate/uploads/sites/11068/2020/10/21130047/3.-Be-Yourself.mp3"
+      />
+		<pubDate>Mon, 16 May 2022 12:15:00 GMT</pubDate>
+	</item>
+</channel>
+</rss>
